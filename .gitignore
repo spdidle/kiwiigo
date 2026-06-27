@@ -175,3 +175,6 @@ report/
 # Then push the commit.
 
 # End of generated .gitignore
+
+# macOS
+.DS_Store
